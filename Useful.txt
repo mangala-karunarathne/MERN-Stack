@@ -1,0 +1,6 @@
+Autugenerated Secure Passworder
+
+PW : Hismk@124
+ 
+Password Change :
+mongodb+srv://MangalaSmk:<password>@mangalafirstcluster.zt2ov.mongodb.net/?retryWrites=true&w=majority
